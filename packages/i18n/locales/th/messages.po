@@ -7028,7 +7028,6 @@ msgid "Make member"
 msgstr "ตั้งเป็นสมาชิก"
 
 #: apps/web/src/pages/settings/BillingSettingsPanel.tsx
-#: apps/web/src/pages/settings/SpacesSettingsPanel.tsx
 msgid "Manage"
 msgstr "จัดการ"
 

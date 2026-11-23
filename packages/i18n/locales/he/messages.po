@@ -7034,7 +7034,6 @@ msgid "Make member"
 msgstr "הפיכה לחבר"
 
 #: apps/web/src/pages/settings/BillingSettingsPanel.tsx
-#: apps/web/src/pages/settings/SpacesSettingsPanel.tsx
 msgid "Manage"
 msgstr "ניהול"
 

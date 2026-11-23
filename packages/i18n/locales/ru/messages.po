@@ -7034,7 +7034,6 @@ msgid "Make member"
 msgstr "Сделать участником"
 
 #: apps/web/src/pages/settings/BillingSettingsPanel.tsx
-#: apps/web/src/pages/settings/SpacesSettingsPanel.tsx
 msgid "Manage"
 msgstr "Управлять"
 
